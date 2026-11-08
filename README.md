@@ -7,7 +7,8 @@
 ## Aluno
 
 | Nome | Matrícula | Usuário do GitHub |
-| --- | --- | --- |
+| franciane de carvalho nogueira | 2418640  | francinogueira0611-ctrl
+ |
 |  |  |  |
 
 ## O cenário
